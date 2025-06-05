@@ -1,31 +1,46 @@
-#Data Cleaning in SQL
-#Overview
-Cleaned and transformed a raw layoff dataset using SQL techniques to ensure a reliable and analysis-ready dataset.
+# Data Cleaning Project
 
-#Problem Statement
-Raw datasets often contain inconsistencies, duplicates, and irrelevant information that can skew analysis.
+This project demonstrates how I clean real-world datasets to prepare them for analysis. I addressed issues like missing values, duplicate rows, inconsistent formats, and outliers to make the data reliable and ready for further use.
 
-#Tools & Technologies
+## What I Did
 
-SQL
+- Handled missing data by imputing or removing, based on the context.
+- Removed duplicate records to ensure data quality.
+- Standardized formats such as dates and text fields for consistency.
+- Detected and treated outliers using statistical methods and visualization.
+- Documented the cleaning steps for clarity and reproducibility.
 
-Approach
+## Why This Project Matters
 
-Removed duplicate records.
+Data cleaning is a crucial first step in any data science workflow. This project highlights my attention to detail and my approach to building a strong foundation for analysis and modeling.
 
-Standardized categorical values.
+## Tools Used
 
-Handled null values appropriately.
+- Python (Pandas, NumPy)
+- Jupyter Notebook
+- Matplotlib and Seaborn for exploratory data analysis
 
-Filtered out irrelevant records.
+# Data Cleaning Project
 
-#Key Results
-Produced a clean dataset suitable for accurate insights and reporting.
+This project demonstrates how I clean real-world datasets to prepare them for analysis. I addressed issues like missing values, duplicate rows, inconsistent formats, and outliers to make the data reliable and ready for further use.
 
-How to Use
+## What I Did
 
-Clone the repository.
+- Handled missing data by imputing or removing, based on the context.
+- Removed duplicate records to ensure data quality.
+- Standardized formats such as dates and text fields for consistency.
+- Detected and treated outliers using statistical methods and visualization.
+- Documented the cleaning steps for clarity and reproducibility.
 
-Import the dataset into your SQL environment.
+## Why This Project Matters
 
-Run the provided SQL scripts to clean the data.
+Data cleaning is a crucial first step in any data science workflow. This project highlights my attention to detail and my approach to building a strong foundation for analysis and modeling.
+
+## Tools Used
+
+- Python (Pandas, NumPy)
+- Jupyter Notebook
+- Matplotlib and Seaborn for exploratory data analysis
+
+
+
